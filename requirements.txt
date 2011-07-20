@@ -1,0 +1,2 @@
+-e git+https://github.com/ryszard/python-netflix.git#egg=netflix
+simplejson
